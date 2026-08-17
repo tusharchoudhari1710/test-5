@@ -7,8 +7,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test5Application {
 
 	public static void main(String[] args) {
-	char ch = "x";
-	boolean isSub = true;
+
+	 char i = "n";
+
+	 char ch = "x";
+	 boolean isSub = true;
+
 
 		SpringApplication.run(Test5Application.class, args);
 	}
