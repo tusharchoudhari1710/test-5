@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test5Application {
 
 	public static void main(String[] args) {
+	boolean isSub = true;
 		SpringApplication.run(Test5Application.class, args);
 	}
 
