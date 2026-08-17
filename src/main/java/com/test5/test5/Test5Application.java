@@ -7,11 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test5Application {
 
 	public static void main(String[] args) {
-		Patansaongi;
-		Nagpur;
-
 	 char i = "n";
-
 	 char ch = "x";
 	 boolean isSub = true;
 
